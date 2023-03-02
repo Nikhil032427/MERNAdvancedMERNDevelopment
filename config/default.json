@@ -1,0 +1,4 @@
+{
+    "mongoDB_URI":"mongodb+srv://Nikhil:M4J0AcbRCwasRPGj@cluster0.y3jvr3m.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecrete": "secreteToken"
+}
