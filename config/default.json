@@ -1,4 +1,4 @@
 {
-    "mongoDB_URI":"mongodb+srv://Nikhil:M4J0AcbRCwasRPGj@cluster0.y3jvr3m.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoDB_URI":"Here You need to add mongodb cloud atlas cluster link",
     "jwtSecrete": "secreteToken"
 }
